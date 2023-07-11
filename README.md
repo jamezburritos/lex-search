@@ -3,7 +3,7 @@ Search file contents using [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf
 
 ## Supported Formats 
 Currently only `.xml` files are searchable. 
-The corpus used to develop the tool is from (docs.gl)[https://github.com/BSVino/docs.gl], which is made avaliable as a body of xhtml files.
+The corpus used to develop the tool is from [docs.gl](https://github.com/BSVino/docs.gl), which is made avaliable as a body of xhtml files.
 
 ## Building 
 To download the source and build the executable:
