@@ -1,5 +1,5 @@
 # lex-search 
-Search file contents using TF-IDF document search. 
+Search file contents using [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) document search. 
 
 ## Supported Formats 
 Currently only `.xml` files are searchable. 
